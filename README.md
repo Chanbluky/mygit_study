@@ -5,3 +5,4 @@ hello vector!
 hello world!
 fast forward test
 stash test
+fix bug1
