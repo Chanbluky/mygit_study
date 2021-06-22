@@ -1,3 +1,7 @@
 # mygit_study
 creating dev branch
-creating a new branch is quick & simple
+<<<<<<< HEAD
+Creating a new branch is quick AND simple
+=======
+Creating a new branch is simple and quick
+>>>>>>> feature1
